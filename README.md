@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyn0w&label=Profile%20views&color=9394b0&style=flat" alt="huseyn0w" /> </p>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://huseyn0w.github.io](https://huseyn0w.github.io)
 
