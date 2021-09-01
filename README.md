@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyn0w&label=Profile%20views&color=9394b0&style=flat" alt="huseyn0w" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyn0w" alt="huseyn0w" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -12,8 +11,6 @@
 - 📝 I regularly write articles on [https://dev.to](https://dev.to)
 
 - 💬 Ask me about **Anything you are interested :)**
-
-- 📫 How to reach me **thehuseyn0w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
