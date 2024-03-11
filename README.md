@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyn0w&label=Profile%20views&color=9394b0&style=flat" alt="huseyn0w" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://huseyn0w.github.io](https://huseyn0w.github.io)
+- 👨‍💻 All of my projects are available at [https://ehuseynov.net](https://ehuseynov.net)
 
 - 📝 I regularly write articles on [https://dev.to](https://dev.to)
 
