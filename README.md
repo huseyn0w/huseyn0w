@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elman Huseynov</h1>
-<h3 align="center">A passionate Senior Software Engineer</h3>
+<h3 align="center">A passionate Engineering Lead</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyn0w&label=Profile%20views&color=9394b0&style=flat" alt="huseyn0w" /> </p>
 
