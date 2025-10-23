@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ehuseynov.com](https://ehuseynov.com)
 
-- 📝 I regularly write articles on [Substack([https://dev.to](https://elmantech.substack.com/))
+- 📝 I regularly write articles on [Substack][https://dev.to](https://elmantech.substack.com/))
 
 - 💬 Ask me about **Anything you are interested :)**
 
