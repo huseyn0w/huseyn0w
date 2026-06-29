@@ -13,6 +13,7 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [**Standout CV**](https://cv.helloelman.com) | My interactive online CV / résumé. | Web |
 | [**CMStack**](https://github.com/huseyn0w/cmstack-ts) | Performance-first, multi-language CMS framework — the same product built across 8 stacks (TS, Django, Laravel, Go, Rust, Rails, .NET, JVM). Plugins, full-text search, i18n, SEO/GEO, MCP server. | Next.js · NestJS · Laravel · Django · Rust · Go |
 | [**WordMCPress**](https://elman.group) | WordPress MCP plugin exposing 112 abilities across 18 domains (posts, Gutenberg, WooCommerce, ACF) as typed tools for AI agents. | PHP · WordPress · MCP |
 | [**Fast-Connect**](https://github.com/huseyn0w/Fast-Connect) | Registration-free, instant group video conferencing — full-mesh WebRTC, screen share & in-room chat, no downloads. | WebRTC · Socket.IO · React · Node |
