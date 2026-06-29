@@ -3,11 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyn0w&label=Profile%20views&color=9394b0&style=flat" alt="huseyn0w" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ehuseynov.com](https://ehuseynov.com)
+- 👨‍💻 All of my projects are available at [https://helloelman.com](https://helloelman.com)
 
 - 📝 I regularly write articles on [Substack](https://elmantech.substack.com/)
 
 - 💬 Ask me about **Anything you are interested :)**
+
+<h3 align="left">Featured Projects:</h3>
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**CMStack**](https://github.com/huseyn0w/cmstack-ts) | Performance-first, multi-language CMS framework — the same product built across 8 stacks (TS, Django, Laravel, Go, Rust, Rails, .NET, JVM). Plugins, full-text search, i18n, SEO/GEO, MCP server. | Next.js · NestJS · Laravel · Django · Rust · Go |
+| [**WordMCPress**](https://elman.group) | WordPress MCP plugin exposing 112 abilities across 18 domains (posts, Gutenberg, WooCommerce, ACF) as typed tools for AI agents. | PHP · WordPress · MCP |
+| [**Fast-Connect**](https://github.com/huseyn0w/Fast-Connect) | Registration-free, instant group video conferencing — full-mesh WebRTC, screen share & in-room chat, no downloads. | WebRTC · Socket.IO · React · Node |
+| [**BerlinArea**](https://github.com/huseyn0w/BerlinArea) | Premium Berlin city-guide app — vintage-styled offline map with 112 curated places, search & favourites. | React Native · Expo · MapLibre |
+| [**mYo**](https://github.com/huseyn0w/mYo) | Calendar-memories social app — photo tagging, geolocation, private profiles & real-time comments. | React Native · AWS Amplify · GraphQL |
+| [**Vocabularify**](https://github.com/huseyn0w/Vocabularify) · [mobile](https://github.com/huseyn0w/VocabularifyMobile) | Ambient vocabulary learning — a new word every few seconds, 7 languages, fully offline. Desktop + mobile. | Electron · React Native · Expo |
+| [**smarthiring.tech**](https://github.com/huseyn0w/smarthiring.tech) | Marketing site for an interviewer-training service — animated, themable, responsive. | JavaScript · CSS3 · HTML5 |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
